@@ -69,6 +69,7 @@ pip install -r requirements.txt
 ### 4. Configure environment
 Modify the `.env` file with your AWS credentials:
 
+
 ```env
 AWS_ACCESS_KEY_ID=your_aws_access_key_here
 AWS_SECRET_ACCESS_KEY=your_aws_secret_key_here
@@ -104,7 +105,7 @@ simple-rag-chatbot/
 
 1. **User asks a question** in the chat interface
 2. **Bedrock searches** your Knowledge Base for relevant documents
-3. **Claude 3.5 Sonnet v2 generates** an answer based on found documents
+3. **Claude 3.5 Sonnet V2 generates** an answer based on found documents
 4. **Response displays** in the chat with the AI-generated answer
 
 ## Troubleshooting
