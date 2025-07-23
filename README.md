@@ -95,7 +95,7 @@ streamlit run app.py
 ## File Structure
 ```
 simple-rag-chatbot/
-├── app.py              # Main Streamlit app (50 lines)
+├── app.py              # Main Streamlit app
 ├── requirements.txt    # Dependencies
 ├── .env               # Your AWS keys (don't commit this!)
 └── README.md          # This file
