@@ -50,7 +50,7 @@ pip install -r requirements.txt
 3. Wait for sync to complete (5-10 minutes)
 
 ### 4. Configure environment
-Create a `.env` file with your AWS credentials:
+Modift the `.env` file with your AWS credentials:
 
 ```env
 AWS_ACCESS_KEY_ID=your_aws_access_key_here
