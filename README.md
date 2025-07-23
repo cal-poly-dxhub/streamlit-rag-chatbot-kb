@@ -3,17 +3,34 @@
 A minimal Streamlit chatbot that lets you chat with your documents using Amazon Bedrock Knowledge Bases.
 
 ## What is RAG?
+RAG (Retrieval Augmented Generation) is like giving an AI assistant a filing cabinet of your documents so it can look things up before answering.
 
-**RAG (Retrieval Augmented Generation)** combines document search with AI generation:
-1. **Retrieve**: Find relevant documents from your knowledge base
-2. **Generate**: Create answers based on those documents
+### How it works:
+1. Convert to Vectors: Your documents get turned into "vectors" (think of them as numerical fingerprints that capture meaning)
+2. Store in Knowledge Base: These vectors are stored in a searchable database
+3. Find Similar Content: When you ask a question, the system finds documents with similar meaning using "semantic similarity"
+4. Generate Answer: The AI reads the relevant documents and writes a custom answer
+
+### Key Concepts Made Simple:
+
+**What is a Vector?**
+- A vector is just a list of numbers that represents the "meaning" of text
+- Similar ideas have similar numbers
+- Example: "dog" and "puppy" would have very similar vectors
+- "dog" and "spaceship" would have very different vectors
+
+**What is Semantic Similarity?**
+- It's how we find documents that mean the same thing, even if they use different words
+- "car" and "automobile" are semantically similar
+- "happy" and "joyful" are semantically similar
+- This is way smarter than just matching exact words!
 
 ## Features
 
 - Simple chat interface
 - Queries your Bedrock Knowledge Base
 - Maintains conversation history
-- Only 3 files, 50 lines of code!
+- Only 3 files, less than 100 lines of code!
 
 ## Quick Start
 
@@ -50,7 +67,7 @@ pip install -r requirements.txt
 3. Wait for sync to complete (5-10 minutes)
 
 ### 4. Configure environment
-Create a `.env` file with your AWS credentials:
+Modify the `.env` file with your AWS credentials:
 
 ```env
 AWS_ACCESS_KEY_ID=your_aws_access_key_here
@@ -87,7 +104,7 @@ simple-rag-chatbot/
 
 1. **User asks a question** in the chat interface
 2. **Bedrock searches** your Knowledge Base for relevant documents
-3. **Claude 3 Sonnet generates** an answer based on found documents
+3. **Claude 3.5 Sonnet v2 generates** an answer based on found documents
 4. **Response displays** in the chat with the AI-generated answer
 
 ## Troubleshooting
