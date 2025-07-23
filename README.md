@@ -13,7 +13,7 @@ A minimal Streamlit chatbot that lets you chat with your documents using Amazon 
 - Simple chat interface
 - Queries your Bedrock Knowledge Base
 - Maintains conversation history
-- Only 3 files, 50 lines of code!
+- Only 3 files, less than 100 lines of code!
 
 ## Quick Start
 
