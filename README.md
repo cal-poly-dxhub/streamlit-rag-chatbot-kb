@@ -87,7 +87,7 @@ simple-rag-chatbot/
 
 1. **User asks a question** in the chat interface
 2. **Bedrock searches** your Knowledge Base for relevant documents
-3. **Claude 3 Sonnet generates** an answer based on found documents
+3. **Claude 3.5 Sonnet V2 generates** an answer based on found documents
 4. **Response displays** in the chat with the AI-generated answer
 
 ## Troubleshooting
