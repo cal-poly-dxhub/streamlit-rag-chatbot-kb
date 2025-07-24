@@ -1,8 +1,8 @@
 # Cal Poly AI Summer Camp: Scripts for Creating Python Projects
-## Welcome to our AI Summer Camp! This project give you scripts to launch your python projects with ease!
+Welcome to our AI Summer Camp! This project give you scripts to launch your python projects with ease!
 
 # Contact Information
-## Instructor: Shrey Shah - sshah84@calpoly.edu
+Instructor: Shrey Shah - sshah84@calpoly.edu
 
 ### Feel free to reach out if you have questions about:
 
@@ -11,7 +11,7 @@
 - General development environment setup
 
 # Video Tutorial
-## For a complete walkthrough of this project, check out my video explanation: [RAG Chatbot with Amazon Bedrock] (https://cpslo.sharepoint.com/:v:/r/sites/DxHub/Shared%20Documents/AI%20SummerCamp/Guide%20Videos/Building%20a%20Streamlit%20RAG%20Chatbot%20-%20Shrey%20Shah.mp4?csf=1&web=1&e=lZgqFN) 
+For a complete walkthrough of this project, check out my video explanation: [RAG Chatbot with Amazon Bedrock](https://cpslo.sharepoint.com/:v:/r/sites/DxHub/Shared%20Documents/AI%20SummerCamp/Guide%20Videos/Building%20a%20Streamlit%20RAG%20Chatbot%20-%20Shrey%20Shah.mp4?csf=1&web=1&e=lZgqFN) 
 
 # Simple RAG Chatbot with Amazon Bedrock
 
