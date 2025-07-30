@@ -11,7 +11,7 @@ Instructor: Shrey Shah - sshah84@calpoly.edu
 - General development environment setup
 
 ## Video Tutorial
-For a complete walkthrough of this project, check out my video explanation: [RAG Chatbot with Amazon Bedrock](https://cpslo.sharepoint.com/:v:/r/sites/DxHub/Shared%20Documents/AI%20SummerCamp/Guide%20Videos/Building%20a%20Streamlit%20RAG%20Chatbot%20-%20Shrey%20Shah.mp4?csf=1&web=1&e=lZgqFN) 
+For a complete walkthrough of this project, check out my video explanation: [RAG Chatbot with Amazon Bedrock (https://drive.google.com/file/d/1JMOY54Q2DaL1HPl_GFUgAXnfWRuf0KoT/view?usp=drive_link) 
 
 ## What is RAG?
 RAG (Retrieval Augmented Generation) is like giving an AI assistant a filing cabinet of your documents so it can look things up before answering.
