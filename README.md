@@ -8,9 +8,9 @@ Thanks for your interest in our solution. Having specific examples of replicatio
 
 # Disclaimers 
 
-Customers are responsible for making their own independent assessment of the information in this document. 
+**Customers are responsible for making their own independent assessment of the information in this document.** 
 
-This document: 
+**This document:** 
 
 (a) is for informational purposes only, 
 
@@ -20,7 +20,7 @@ This document:
 
 (d) is not to be considered a recommendation or viewpoint of AWS. 
 
-Additionally, you are solely responsible for testing, security and optimizing all code and assets on GitHub repo, and all such code and assets should be considered: 
+**Additionally, you are solely responsible for testing, security and optimizing all code and assets on GitHub repo, and all such code and assets should be considered:** 
 
 (a) as-is and without warranties or representations of any kind, 
 
@@ -28,7 +28,8 @@ Additionally, you are solely responsible for testing, security and optimizing al
 
 (c) to include shortcuts in order to support rapid prototyping such as, but not limited to, relaxed authentication and authorization and a lack of strict adherence to security best practices. 
 
-All work produced is open source. More information can be found in the GitHub repo.
+**All work produced is open source. More information can be found in the GitHub repo.**
+
 # Cal Poly AI Summer Camp: Simple RAG Chatbot with Amazon Bedrock
 Welcome to our AI Summer Camp! This project give you scripts to a minimal Streamlit chatbot that lets you chat with your documents using Amazon Bedrock Knowledge Bases.
 
